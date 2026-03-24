@@ -1,7 +1,6 @@
 ![Elist Logo](eList_Logo_50x50.fw.png) 
-# Post-Pandemic Sales Analysis #
-
-** Quick Overview **
+# eList Post-Pandemic Sales Analysis #
+An executive summary of retail computing devices sales performance from 2020. Sales & marketing history data since that year was analyzed to uncover key performance insights and to solicit valuable marketing & operational strategies to mitigate the slowing demand for houshold computing devices post-pandemic.
 
 # Visuals #
 ** Visuals Placeholder **
