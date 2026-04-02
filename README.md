@@ -1,8 +1,18 @@
 ![Elist Logo](eList_Logo_100x100.fw.png) 
-# eList Executive Summary #
-Incorporated in 2018, eList is an e-commerce company that provides popular electronic products to global customers. In this project, I analyzed a sample dataset investigating trends in sales, average order value, products, and operational effectiveness from 2019 through 2022 to provide insights on eList's performance across many different areas of the business. I also analyzed the performance of eList's loyalty program. I provide recommendations based on these insights on where eList should focus efforts to improve growth in the post-pandemic market.
+# FY22 Performance Summary Report #
 
-I used a combination of conditional formatting, aggregation functions, Pivot Tables, and statistical analysis to clean, analyze, and summarize these insights to deliver to the finance, marketing, product and operations teams.
+## About ##
+**EList** is a US-based e-commerce company that sells top-brand consumer electronics and accessories like Apple, Samsung, and ThinkPad to a global clientele. The company has grown and expanded since it's launch in 2018 and has encountered increasing competitive pressures within the industry as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
+
+**EList’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.
+
+In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **EList’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance **EList’s** commercial performance. The key insights and recommendations focus on the following areas:
+
+## Northstar Metrics ##
+* **Sales trends** - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
+* **Product performance** - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.
+* **Loyalty program evaluation** - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.
+* **Regional results** - Evaluating regional demand and product performance within regions to identify areas for improvement.
 
 # Visuals #
 ** Visuals Placeholder **
