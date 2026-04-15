@@ -1,5 +1,5 @@
 <!-- ![Elist Logo](eList_Logo_100x100.fw.png)-->
-<div align="center"><img src="eList_Logo_100x100.fw.png"></div>
+<div align="center"><img src="elist-ppt-banner-logo3.png"></div>
 
 # <div align="center">Sales Performance Review</div>
 
