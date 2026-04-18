@@ -15,13 +15,13 @@
 
 **Strong momentum across all four metrics — three clear actions follow.**
 
-![Sales up YoY](https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square)&nbsp;&nbsp;&nbsp;![AOV](https://img.shields.io/badge/AOV-%2B%2433-2da44e?style=flat-square)&nbsp;&nbsp;&nbsp;![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square)&nbsp;&nbsp;&nbsp;![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)&nbsp;&nbsp;&nbsp;![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square)
+![Sales down YoY](https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square)&nbsp;&nbsp;&nbsp;![AOV](https://img.shields.io/badge/AOV-%2B%2433-2da44e?style=flat-square)&nbsp;&nbsp;&nbsp;![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square)&nbsp;&nbsp;&nbsp;![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)&nbsp;&nbsp;&nbsp;![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square)
 
 ---
 
 ## 1. Overall Sales Trends
 
-### Sales Momentum Accelerated Each Quarter — Full-Year Revenue Hit a Three-Year High
+### Sales Momentum Deccelerated Each Quarter — Full-Year Revenue Hit a Three-Year Low
 
 *Visualization: Line chart · full period · annotate inflection points*
 
@@ -108,15 +108,20 @@
 
 ---
 
-## About Project 
+## About The Project 
+
 ### Company
 **Bits&Bytes Commerce Inc.(B&B)** is a privately held eCommerce company based in Houston Texas that sells top-brand consumer electronics and accessories like Apple, Samsung, and ThinkPad to a global clientele. The company has successfuly pivoted, grown and expanded since it's launch in 2018 from being a B2B reseller to a Direct-to-Consumer retailer. At the beginning of 2020, it has encountered increasing competition within the industry as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
 
 ### Operational Data
 **B&B’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.
+<div align="center">
+ <img src="bits_and_bytes_ERD_diagram.png" width="450" alt="bits&bytes logo" /><br>
+ B&B Entity Relationship Diagram (ERD)
+</div>
 
  ### The Ask
-In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **B&B’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that Angie Lopez(Head of Operations) and the various internal cross-functional teams will utilize to streamline processes and enhance **B&B’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
+In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **B&B’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that Angie Lopez (Head of Operations) and the various internal cross-functional teams will utilize to streamline processes and enhance **B&B’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
  
 #### Northstar Metrics
 * **Sales trends** - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
