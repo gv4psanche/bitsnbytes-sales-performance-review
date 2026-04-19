@@ -94,7 +94,7 @@ _	Underscore	5F (%5F)
 
 *Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
 <div align="center">
- <img src="bits_and_bytes_chart_refrate_aov.png" width="850" alt="revenue chart" /><br>
+ <img src="bits_and_bytes_chart_refrate_aov.png" width="750" alt="revenue chart" /><br>
 </div>
 
 ---
