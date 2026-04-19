@@ -90,10 +90,15 @@ _	Underscore	5F (%5F)
 
 ## 4. Refund Rates & Average Order Value
 
-### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
+### Refunds Not Captured from Q3-2021 through Q4-2022 due to CRM issue - Risk Assessment WIP
+
+*Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
 <div align="center">
- <img src="bits_and_bytes_chart_refund_trend.png" width="550" alt="revenue chart" /><br>
+ <img src="bits_and_bytes_chart_refund_trend.png" width="850" alt="revenue chart" /><br>
 </div>
+
+### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
+
 *Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
 <div align="center">
  <img src="bits_and_bytes_chart_refrate_aov.png" width="550" alt="revenue chart" /><br>
