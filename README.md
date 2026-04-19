@@ -91,15 +91,17 @@ _	Underscore	5F (%5F)
 ## 4. Refund Rates & Average Order Value
 
 ### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
-
+<div align="center">
+ <img src="bits_and_bytes_chart_refund_trend.png" width="550" alt="revenue chart" /><br>
+</div>
 *Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
 <div align="center">
- <img src="bits_and_bytes_chart_refrate_aov.png" width="750" alt="revenue chart" /><br>
+ <img src="bits_and_bytes_chart_refrate_aov.png" width="550" alt="revenue chart" /><br>
 </div>
 
 ---
 
-### Higher AOV Is Driven by Bundle Purchases — Not Just Price Increases
+### Higher AOV Is Driven by Premium Laptop Purchases — Accounts for elevated returns as well
 
 *Visualization: AOV decomposition · bundles vs. single-item vs. price lift*
 
