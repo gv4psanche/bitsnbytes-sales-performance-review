@@ -37,8 +37,9 @@ _	Underscore	5F (%5F)
 ### FY22 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
 *Visualization: Line chart · full period · annotate inflection points*
-
-> `[ Revenue trend chart ]`
+<div align="center">
+ <img src="bits_and_bytes_chart_revenue_trend.png" width="850" alt="revenue chart" /><br>
+</div>
 
 ---
 
@@ -47,8 +48,9 @@ _	Underscore	5F (%5F)
 *Visualization: Channel breakdown · stacked bar or small multiples*
 
 - **Direct:** +18% YoY
-- **Online:** +31% YoY
-- **Partner:** +9% YoY
+- **Social Media:** +31% YoY
+- **Email:** +31% YoY
+- **Affiliate:** +9% YoY
 
 ---
 
@@ -91,8 +93,9 @@ _	Underscore	5F (%5F)
 ### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
 
 *Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
-
-> `[ Refund rate vs AOV chart ]`
+<div align="center">
+ <img src="bits_and_bytes_chart_refrate_aov.png" width="850" alt="revenue chart" /><br>
+</div>
 
 ---
 
