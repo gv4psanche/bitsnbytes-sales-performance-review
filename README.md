@@ -1,9 +1,11 @@
 <!-- ![Bits&Bytes Logo](Bits&Bytes_Logo_100x100.fw.png)--><!--img src="Bits&Bytes-ppt-banner-logo3.png"-->
 <!--div align="left"></div-->
-<table border="0" bordercolor="white">
+<table border="0" bordercolor="white" width="100%">
   <tr>
     <td><img src="bits_and_bytes_logo.svg" width="200" alt="bits&bytes logo" /></td>
-    <td>Sales Performance Review</td>
+    <td>
+      <h1>Sales Performance Review</h1>
+    </td>
   </tr>
 </table>
 
