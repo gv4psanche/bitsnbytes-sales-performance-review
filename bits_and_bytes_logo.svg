@@ -2,69 +2,69 @@
   <title>bits&amp;bytes Logo</title>
   <desc>bits&amp;bytes logo — mixed sizing wordmark upper-left on black square, 9x9 fading green dot matrix</desc>
 
-  <!-- Black square -->
-  <rect x="90" y="90" width="500" height="500" rx="28" fill="#0d0d0d"/>
+  <!-- Black square (-70 @ x&y)-->
+  <rect x="20" y="20" width="500" height="500" rx="28" fill="#0d0d0d"/>
 
-  <!-- DOT MATRIX 9x9 — fades diagonally from bottom-right to halfway upper-left -->
-  <rect x="548" y="170" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <!-- DOT MATRIX 9x9 — fades diagonally from bottom-right to halfway upper-left (-70 @ x&y)-->
+  <rect x="478" y="100" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
-  <rect x="548" y="224" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
-  <rect x="494" y="224" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <rect x="478" y="154" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
+  <rect x="424" y="154" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
-  <rect x="548" y="278" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
-  <rect x="494" y="278" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
-  <rect x="440" y="278" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <rect x="478" y="208" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
+  <rect x="424" y="208" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
+  <rect x="370" y="208" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
-  <rect x="548" y="332" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
-  <rect x="494" y="332" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
-  <rect x="440" y="332" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
-  <rect x="386" y="332" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <rect x="478" y="262" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
+  <rect x="424" y="262" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
+  <rect x="370" y="262" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
+  <rect x="316" y="262" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
-  <rect x="548" y="386" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
-  <rect x="494" y="386" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
-  <rect x="440" y="386" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
-  <rect x="386" y="386" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
-  <rect x="332" y="386" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <rect x="478" y="316" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
+  <rect x="424" y="316" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
+  <rect x="370" y="316" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
+  <rect x="316" y="316" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
+  <rect x="262" y="316" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
-  <rect x="548" y="440" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.75"/>
-  <rect x="494" y="440" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
-  <rect x="440" y="440" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
-  <rect x="386" y="440" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
-  <rect x="332" y="440" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
-  <rect x="278" y="440" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <rect x="478" y="370" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.75"/>
+  <rect x="424" y="370" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
+  <rect x="370" y="370" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
+  <rect x="316" y="370" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
+  <rect x="262" y="370" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
+  <rect x="208" y="370" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
-  <rect x="548" y="494" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.875"/>
-  <rect x="494" y="494" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.75"/>
-  <rect x="440" y="494" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
-  <rect x="386" y="494" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
-  <rect x="332" y="494" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
-  <rect x="278" y="494" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
-  <rect x="224" y="494" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <rect x="478" y="424" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.875"/>
+  <rect x="424" y="424" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.75"/>
+  <rect x="370" y="424" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
+  <rect x="316" y="424" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
+  <rect x="262" y="424" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
+  <rect x="208" y="424" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
+  <rect x="154" y="424" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
-  <rect x="548" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="1.0"/>
-  <rect x="494" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.875"/>
-  <rect x="440" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.75"/>
-  <rect x="386" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
-  <rect x="332" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
-  <rect x="278" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
-  <rect x="224" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
-  <rect x="170" y="548" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
+  <rect x="478" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="1.0"/>
+  <rect x="424" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.875"/>
+  <rect x="370" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.75"/>
+  <rect x="316" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.625"/>
+  <rect x="262" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.50"/>
+  <rect x="208" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.375"/>
+  <rect x="154" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.25"/>
+  <rect x="100" y="478" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
 
   <!-- WORDMARK -->
-  <!-- "bits" lowercase at 112px -->
-  <text x="124" y="294"
+  <!-- "bits" lowercase at 112px (-70 @ x&y)--> 
+  <text x="54" y="224"
     font-family="system-ui,-apple-system,'Segoe UI',sans-serif"
     font-size="135" font-weight="700" letter-spacing="-3"
     fill="#ffffff">bits</text>
 
-  <!-- "&" oversized at 148px in green -->
-  <text x="114" y="406"
+  <!-- "&" oversized at 148px in green (-70 @ x&y)-->
+  <text x="44" y="336"
     font-family="system-ui,-apple-system,'Segoe UI',sans-serif"
     font-size="148" font-weight="700"
     fill="#1D9E75">&amp;</text>
 
-  <!-- "bytes" lowercase at 112px, spaced after "&" -->
-  <text x="246" y="406"
+  <!-- "bytes" lowercase at 112px, spaced after "&" (-70 @ x&y)-->
+  <text x="176" y="336"
     font-family="system-ui,-apple-system,'Segoe UI',sans-serif"
     font-size="135" font-weight="700" letter-spacing="-3"
     fill="#ffffff">bytes</text>
