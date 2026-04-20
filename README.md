@@ -1,7 +1,11 @@
 <!-- ![Bits&Bytes Logo](Bits&Bytes_Logo_100x100.fw.png)--><!--img src="Bits&Bytes-ppt-banner-logo3.png"-->
-<div align="center">
- <img src="bits_and_bytes_logo.svg" width="200" alt="bits&bytes logo" /><br>
-</div>
+<!--div align="left"></div-->
+<table border="0" bordercolor="white">
+  <tr>
+    <td><img src="bits_and_bytes_logo.svg" width="200" alt="bits&bytes logo" /></td>
+    <td>Sales Performance Review</td>
+  </tr>
+</table>
 
 # <div align="center">Sales Performance Review</div>
 
@@ -151,3 +155,8 @@ In coordination with the Head of Operations, an in-depth analysis was conducted 
 * **Product performance** - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.
 * **Loyalty program evaluation** - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.
 * **Regional results** - Evaluating regional demand and product performance within regions to identify areas for improvement.
+
+---
+<div align="center">
+ <img src="bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /><br>
+</div>
