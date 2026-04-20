@@ -1,9 +1,9 @@
-<svg width="500" height="500" viewBox="0 0 550 550" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="500" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>bits&amp;bytes Logo</title>
   <desc>bits&amp;bytes logo — mixed sizing wordmark upper-left on black square, 9x9 fading green dot matrix</desc>
 
   <!-- Black square -->
-  <rect x="90" y="90" width="500" height="500" rx="28" fill="#0d0d0d"/>
+  <rect x="10" y="10" width="500" height="500" rx="28" fill="#0d0d0d"/>
 
   <!-- DOT MATRIX 9x9 — fades diagonally from bottom-right to halfway upper-left -->
   <rect x="548" y="170" width="22" height="22" rx="4" fill="#1D9E75" opacity="0.125"/>
