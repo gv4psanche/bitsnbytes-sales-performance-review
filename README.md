@@ -12,6 +12,9 @@
 ## Executive Summary
 
 **Strong momentum across all four metrics — three clear actions follow.**
+<div align="center">
+ <img src="bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
+</div>
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
 <!-- https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square (down/red) -->
 <!--
@@ -36,7 +39,7 @@ _	Underscore	5F (%5F)
 
 *Visualization: Line chart · full period · annotate inflection points*
 <div align="center">
- <img src="bits_and_bytes_chart_revenue_trend.png" width="850" alt="revenue chart" /><br>
+ <img src="bits_and_bytes_chart_revenue_trend.png" width="950" alt="revenue chart" /><br>
 </div>
 
 <table>
@@ -91,7 +94,7 @@ _	Underscore	5F (%5F)
 - **Affiliate:** -33% YoY
 
 <div align="center">
- <img src="bits_and_bytes_revenue_by_channel.png" width="850" alt="revenue by channel" /><br>
+ <img src="bits_and_bytes_revenue_by_channel.png" width="950" alt="revenue by channel" /><br>
 </div>
 
 <table>
