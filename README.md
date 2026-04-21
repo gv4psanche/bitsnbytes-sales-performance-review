@@ -11,8 +11,8 @@
 
 ## Executive Summary
 
-**Strong momentum across all four metrics — three clear actions follow.**
-<div align="center">
+<!-- **Strong momentum across all four metrics — three clear actions follow.** -->
+<div align="left">
  <img src="bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
 </div>
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
@@ -24,13 +24,13 @@ Character 	Name	Hex Code (Percent Encoded)
 -	Hyphen-minus	2D (%2D)
 _	Underscore	5F (%5F)
 .	Period	2E (%2E)
--->
+
 ![Sales down YoY](https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp;
 ![AOV](https://img.shields.io/badge/AOV--%2D%24230-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp;
 ![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)&nbsp;&nbsp;&nbsp;
 ![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square)&nbsp;&nbsp;&nbsp;
 ![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square)
-
+-->
 ---
 
 ## 1. Overall Sales Trends (2019-2022)
