@@ -5,7 +5,7 @@
 
 <div align="center">A structured analysis of sales trends, growth rates, loyalty program ROI, and order economics</div>
 
-<div align="center"><b>Period:</b> Q1 2019 – Q4 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Last updated:</b> Apr 2023</div>
+<div align="center"><b>Period:</b> FY2019 – FY2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Last updated:</b> Apr 2023</div>
 
 ---
 
@@ -201,55 +201,52 @@ _	Underscore	5F (%5F)
 
 - **Bundle attach rate** grew from 22% → 41%
 - **Price increase** contributed only $4 of $33 AOV gain
-- **Free shipping threshold**
-- **Discounts over spend threshold**
-- **Bundle deals**
-- **Gift Cards**
-- **Cross sells and Upsells**
-- **Free Gift**
-- 
+
 ---
 
 ## 5. Next Steps
 
 ### Three Priorities for Next Quarter — With Owners and Deadlines
 
-| Priority | Action |
-|---|---|
-| **Priority 1** | Expand loyalty tier structure |
-| **Priority 2** | Scale bundle merchandising + other mktg pgm  (Increeased AOV is the Goal) |
-| **Priority 3** | Address Q2 FY2022 refund issue root cause (Low Refund Rate is the Goal) |
-
 <table>
  <tr>
-  <td valign="top">
-   <div>
-    <b>Quarterly Insights & Seasonal Trends</b>
-    <ul>
-    <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
-    <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
-    </ul>
-   </div>
-   <div>
-    <b>Key Takeaways & Recommendations</b>
-    <ul>
-    <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
-    <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
-    <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
-    </ul>
-   </div>
-</td>
+  <td><b>Priority</b></td>
+  <td><b>Action</b></td>
  </tr>
  <tr>
-  <td><b>Priority 1</b></td>
-  <td></td>
+  <td valign="top"><b>Priority 1</b></td>
+  <td>
+   Expand loyalty tier structure
+   <ul>
+    <li>#1</li>
+    <li>#2</li>
+    </ul>
+  </td>
  </tr>
  <tr></tr>
-  <td><b>Priority 2</b></td>
-  <td></td> 
+  <td valign="top"><b>Priority 2</b></td>
+  <td>
+    Goal: Increase AOV
+   <ul>
+    <li>Price increase</li>
+    <li>Bundle deals</li>
+    <li>Discounts over spend threshold</li>
+    <li>Free shipping threshold</li>
+    <li>Gift Cards</li>
+    <li>Cross sells and Upsells</li>
+    <li>Free Gift</li>
+    </ul>   
+  </td> 
  <tr>
-  <td><b>Priority 3</b></td>
-  <td></td>
+  <td valign="top"><b>Priority 3</b></td>
+  <td>
+   Goal: Lower Return/Refund Rates (Currently @ 12%)
+   <ul>
+    <li>Average e-commerce return rate for PC, Consumer Electronics, and Tech generally falls between 5% and 12%</li>
+    <li>Top reasons for returns: Defects/Shipping Damage | Compatibility Issues | Product Complexity</li>
+    <li>RCA Q2 FY2022 lost/missing refunds(CRM integration issue)</li>
+    </ul>     
+  </td>
  </tr>
 </table>
 
@@ -266,11 +263,15 @@ _	Underscore	5F (%5F)
 **Bits&Bytes Commerce Inc.(B&B)** is a privately held eCommerce company based in Houston Texas that sells top-brand consumer electronics and accessories like Apple, Samsung, and ThinkPad to a global clientele. The company has successfuly pivoted, grown and expanded since it's launch in 2018 from being a B2B reseller to a Direct-to-Consumer retailer. At the beginning of 2020, it has encountered increasing competition within the industry as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
 
 ### Operational Data
-**B&B’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.
+**B&B’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.  
+
 <div align="center">
  <img src="bits_and_bytes_ERD_diagram.png" width="450" alt="bits&bytes logo" /><br>
  B&B Entity Relationship Diagram (ERD)
 </div>
+<br />
+
+**Note:** The raw data was extracted from an older payment platform (prior to Shopify adoption 2021) that resulted in a "*not so clean*" dataset. See [EDA process](/doc/BB_EDA.pdf) on how the dataset was cleaned and prepared.
 
  ### The Ask
 In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **B&B’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that Angie Lopez (Head of Operations) and the various internal cross-functional teams will utilize to streamline processes and enhance **B&B’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
@@ -281,7 +282,10 @@ In coordination with the Head of Operations, an in-depth analysis was conducted 
 * **Loyalty program evaluation** - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.
 * **Regional results** - Evaluating regional demand and product performance within regions to identify areas for improvement.
 
+[Back to Sales Performance Review](#sales-performance-review)
+
 ---
+
 <div align="center">
  <img src="bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /><br>
 </div>
