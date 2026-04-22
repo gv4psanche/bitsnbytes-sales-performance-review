@@ -176,9 +176,8 @@ _	Underscore	5F (%5F)
 
 ## 4. Refund Rates & Average Order Value
 
-### Refunds Not Captured from Q4-2021 through Q4-2022 due to CRM Integration issue - Risk Assessment WIP
-
-*Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
+### Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue
+*Note: This period will be excluded from any Refund related analysis*
 <div align="center">
  <img src="bits_and_bytes_chart_refund_trend.png" width="850" alt="revenue chart" /><br>
 </div>
