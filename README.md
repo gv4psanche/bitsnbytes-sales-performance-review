@@ -136,7 +136,7 @@ _	Underscore	5F (%5F)
 </td-->
  </tr>
 </table>
-
+<br />
 
 ---
 
@@ -147,6 +147,7 @@ _	Underscore	5F (%5F)
 *Visualization: Dual chart · MoM rate left · YoY rate right*
 
 > `[ MoM + YoY growth chart ]`
+<br />
 
 ---
 
@@ -165,12 +166,15 @@ _	Underscore	5F (%5F)
 - **Avg. member spend:** $131 vs $94 non-member
 - **Redemption rate:** 64% (up from 41% prior year)
 - **Retention:** 89% among active loyalty users
+<br />
 
 ---
 
 ### The Verdict: Keep the Program — and Double Down on These Two Improvements
 
 *Direct recommendation · evidence-backed · answers "should we keep it?"*
+
+<br />
 
 ---
 
@@ -188,9 +192,9 @@ _	Underscore	5F (%5F)
 
 <br />
 
-### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
+### Refund Rates Peaked to a Two-Year High as Average Order Value Also Climbed to $300
 
-*Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
+*Note: Refund rate vs AOV show unusual lock-step relationship*
 <table>
  <tr>
   <td align="center">
@@ -199,19 +203,28 @@ _	Underscore	5F (%5F)
  </tr>
 </table>
 
-<br />
-
 - **Realistic Industry Benchmark → 5% - 10%**
 - **Price increase** contributed only $4 of $33 AOV gain
+
+<br />
 
 ---
 
 ### Higher AOV Is Driven by Premium Laptop Purchases — Accounts for elevated returns as well
 
 *Visualization: AOV decomposition · bundles vs. single-item vs. price lift*
+<table>
+ <tr>
+  <td align="center">
+ <img src="images/bits_and_bytes_aov_by_product.png" alt="revenue chart" />
+  </td>
+ </tr>
+</table>
 
 - **Bundle attach rate** grew from 22% → 41%
 - **Price increase** contributed only $4 of $33 AOV gain
+
+<br />
 
 ---
 
@@ -253,17 +266,23 @@ _	Underscore	5F (%5F)
   <td>
    Goal: Lower Return/Refund Rates (Currently @ 12%)
    <ul>
-    <li>Average e-commerce return rate for PC, Consumer Electronics, and Tech generally falls between 5% and 12%</li>
-    <li>Top reasons for returns: Defects/Shipping Damage | Compatibility Issues | Product Complexity</li>
+    <li>Average e-commerce return rate for PC, Consumer Electronics, and Tech generally falls between 5% to 10%</li>
+    <li>Top reasons for returns: Defects/Shipping Damage | Compatibility Issues | Product Complexity | Website Listing Inaccuracy</li>
     <li>RCA Q2 FY2022 lost/missing refunds(CRM integration issue)</li>
     </ul>     
   </td>
  </tr>
 </table>
 
+<br />
+
 ---
 
+<br />
+
 *Bits&Bytes Commerce Inc. · Revenue Analytics · Confidential &nbsp;|&nbsp; `sales-performance-review · v1.2.0`*
+
+<br />
 
 ---
 
