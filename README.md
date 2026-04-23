@@ -191,9 +191,15 @@ _	Underscore	5F (%5F)
 ### Refund Rates Dropped to a Two-Year Low as Average Order Value Climbed to $94
 
 *Visualization: Dual-axis chart · refund rate vs AOV · show the inverse relationship*
-<div align="center">
- <img src="images/bits_and_bytes_chart_refrate_aov.png" width="550" alt="revenue chart" /><br>
-</div>
+<table>
+ <tr>
+  <td align="center">
+ <img src="images/bits_and_bytes_chart_refrate_aov.png" alt="revenue chart" />
+  </td>
+ </tr>
+</table>
+
+<br />
 
 - **Realistic Industry Benchmark → 5% - 10%**
 - **Price increase** contributed only $4 of $33 AOV gain
