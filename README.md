@@ -37,10 +37,12 @@ _	Underscore	5F (%5F)
 
 ### FY22 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
-*Visualization: Line chart · full period · annotate inflection points*
-<div align="center">
- <img src="images/bits_and_bytes_chart_sales_trend.png" width="950" alt="revenue chart" /><br>
+<!-- *Visualization: Line chart · full period · annotate inflection points* -->
+<div align="center" border=1>
+ <img src="images/bits_and_bytes_chart_sales_trend.png" alt="revenue chart" border=1 /><br>
 </div>
+
+<br>
 
 <table>
  <tr>
