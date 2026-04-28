@@ -39,7 +39,7 @@ _	Underscore	5F (%5F)
 
 *Visualization: Line chart · full period · annotate inflection points*
 <div align="center">
- <img src="images/bits_and_bytes_chart_revenue_trend.png" width="950" alt="revenue chart" /><br>
+ <img src="images/bits_and_bytes_chart_sales_trend.png" width="950" alt="revenue chart" /><br>
 </div>
 
 <table>
