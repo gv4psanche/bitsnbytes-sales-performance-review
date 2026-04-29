@@ -12,9 +12,11 @@
 ## Executive Summary
 
 <!-- **Strong momentum across all four metrics — three clear actions follow.** -->
+
 <div align="left">
  <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
 </div>
+
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
 <!-- https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square (down/red) -->
 <!--
@@ -38,9 +40,12 @@ _	Underscore	5F (%5F)
 ### FY22 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
 <!-- *Visualization: Line chart · full period · annotate inflection points* -->
+
+<table><tr><td>
 <div align="center" border=1>
- <img src="images/bits_and_bytes_chart_sales_trend.png" alt="revenue chart" border=1 /><br>
+ <img src="images/bits_and_bytes_chart_sales_trend.png" alt="revenue chart" /><br>
 </div>
+</td></tr></table>
 
 <br>
 
@@ -95,9 +100,11 @@ _	Underscore	5F (%5F)
 - **Affiliate:** 🡻 33% YoY
 -->
 
+<table><tr><td>
 <div align="left">
  <img src="images/bits_and_bytes_sales_by_channel.png" alt="revenue by channel" /><br>
 </div>
+</td></tr></table>
 
 <br>
 
