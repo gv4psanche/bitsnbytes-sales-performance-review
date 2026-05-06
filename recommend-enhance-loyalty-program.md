@@ -9,7 +9,7 @@
      <ol>→  <i>Tier 3: The Elite Architect (Top Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$5,000+ annual spend<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	2x points per $1 spent | "White Glove" | VIP Tech Support</ol><br>
     </li>
     <li>Reward "Technical Advocacy" (UGC) → Offer high-value points for detailed video reviews, setup photos, or participating in community forums. This builds trust and social proof, which are critical for expensive electronics.</li><br>
-    <li>Trade-in & Recycling Bonuses → Encourage repeat business by offering loyalty members a "trade-in" point bonus when they return old electronics</li>
+    <li>Trade-in & Recycling Bonuses → Encourage repeat business by offering loyalty members a "trade-in" point bonus when they return old electronics</li><br>
    </ul>
   </td>
  </tr>
