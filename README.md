@@ -180,8 +180,8 @@ _	Underscore	5F (%5F)
 
 <table>
 <tr><td>
-<div align="center" border=1>
- <img src="images/bits_and_bytes_volume_by_loyalty.png" alt="loyalty chart" /><br>
+<div align="left" border=1>
+ <img src="images/bits_and_bytes_volume_by_loyalty.png" alt="loyalty chart" width="80%"/><br>
 </div>
 </td></tr>
 </table>
