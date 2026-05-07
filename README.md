@@ -266,7 +266,7 @@ _	Underscore	5F (%5F)
 <table>
  <tr>
   <td><b>Priority</b></td>
-  <td><b>Action</b> <span align="right">Teams(<b>MK</b>-Marketing | <b>PR</b>-Product | <b>FI</b>-Finance | <b>CS</b>-Customer Service)</span></td>
+  <td><b>Action</b> <span align="right"> for Teams(<b>MK</b>-Marketing | <b>PR</b>-Product | <b>FI</b>-Finance | <b>CS</b>-Customer Service)</span></td>
  </tr>
  
  <tr>
@@ -275,12 +275,13 @@ _	Underscore	5F (%5F)
    <b>Goal: Keep Customers Engaged by Enhancing Loyalty Program</b>
    <ul><br>
     <li>Enhance 3-Tiered Service Perks → Move beyond simple discounts. Top-tier members should receive "money-can't-buy" services like priority technical support, extended return windows, or "white glove" setup consultations.
-     <ol>→  <i>Tier 1: The Enthusiast (Entry Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Free to join upon first purchase or account creation<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	1x points per $1 spent | Small Discount  | Standard Benefits</ol>
+     <!--ol>→  <i>Tier 1: The Enthusiast (Entry Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Free to join upon first purchase or account creation<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	1x points per $1 spent | Small Discount  | Standard Benefits</ol>
      <ol>→  <i>Tier 2: The Power User (Mid Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$1,500+ annual spend <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	1.5x points per $1 spent | Free "System Health Check" | Priority Support</ol>
-     <ol>→  <i>Tier 3: The Elite Architect (Top Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$5,000+ annual spend<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	2x points per $1 spent | "White Glove" | VIP Tech Support</ol><br>
+     <ol>→  <i>Tier 3: The Elite Architect (Top Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$5,000+ annual spend<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	2x points per $1 spent | "White Glove" | VIP Tech Support</ol--><br>
     </li>
     <li>Reward "Technical Advocacy" (UGC) → Offer high-value points for detailed video reviews, setup photos, or participating in community forums. This builds trust and social proof, which are critical for expensive electronics.</li><br>
     <li>Trade-in & Recycling Bonuses → Encourage repeat business by offering loyalty members a "trade-in" point bonus when they return old electronics</li><br>
+    <li><a href="recommend-enhance-loyalty-program.md">Click here for more details...</a></li><br>
    </ul>
   </td>
  </tr>
@@ -291,19 +292,20 @@ _	Underscore	5F (%5F)
     <b>Goal: Increase AOV</b>
    <ul><br>
     <li>High-Impact Bundling & Configuration</li>
-     <ol>•	"Complete My Build" Bundles<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Automatically suggest essential items that a customer might forget.</ol>
+     <!--ol>•	"Complete My Build" Bundles<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Automatically suggest essential items that a customer might forget.</ol>
      <ol>•	Tiered Performance Kits<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Instead of selling a single PC, offer "Starter," "Pro," and "Ultra" bundles packages.</ol>
-     <ol>•	Software & Content Add-ons<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Bundle high-end GPUs with trending game codes or creative software suites (e.g., Adobe Creative Cloud for workstations).</ol><br>
+     <ol>•	Software & Content Add-ons<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Bundle high-end GPUs with trending game codes or creative software suites (e.g., Adobe Creative Cloud for workstations).</ol--><br>
     <li>Strategic Upselling & Thresholds</li>
-     <ol>•	Free Shipping Thresholds<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Set free shipping limit approximately 30% above your current AOV.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Offering free expedited shipping on orders over $2,000.</ol>
+     <!--ol>•	Free Shipping Thresholds<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Set free shipping limit approximately 30% above your current AOV.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Offering free expedited shipping on orders over $2,000.</ol>
      <ol>•	Comparison-Based Upselling<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Side-by-side tables comparing a base model to a "Premium" version on product pages.</ol>
-     <ol>•	Shipping Protection" Add-ons<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Offer a low-cost, high-margin "Premium Shipping Protection" or "No-Hassle Return" fee at checkout.</ol><br>
+     <ol>•	Shipping Protection" Add-ons<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Offer a low-cost, high-margin "Premium Shipping Protection" or "No-Hassle Return" fee at checkout.</ol--><br>
     <li>Post-Purchase & Checkout Optimization</li>
-     <ol>•	One-Click Post-Purchase Upsell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Immediately after purchase, offer a "15-minute only" discount on extended warranties or a premium monitor arm.</ol>
+     <!--ol>•	One-Click Post-Purchase Upsell<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Immediately after purchase, offer a "15-minute only" discount on extended warranties or a premium monitor arm.</ol>
      <ol>•	Flexible Payment Options (BNPL)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Integrating services like Affirm or Shop Pay Installments can increase AOV by up to 79% for high-ticket items, as it makes expensive workstation builds feel more accessible through monthly payments.</ol>
-     <ol>•	"Pro Tips" in Cart<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Add educational messaging like "Pro Tip: This laptop requires...".</ol><br>
+     <ol>•	"Pro Tips" in Cart<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Add educational messaging like "Pro Tip: This laptop requires...".</ol--><br>
     <li>Gift Cards</li><br>
     <li>Free Gifts</li><br>
+    <li><a href="recommend-increase-aov.md">Click here for more details...</a></li><br>
     </ul>     
   </td>
  </tr>
@@ -312,39 +314,32 @@ _	Underscore	5F (%5F)
   <td valign="top" align="center"><b>3</b></td>
   <td>
    <b>Goal: Lower Return/Refund Rates (Between 5% to 10%; currently @ 12%)</b>
-   <b>Goal: Lower Return/Refund Rates (Between 5% to 10%; currently @ 12%)</b>
    <ul><br>
     <li>Proactive Technical Support &amp; Onboarding</li>
-     <ol>→  Post-Purchase Drip Campaigns<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Send automated emails with setup guides, video tutorials, and common "first-day" troubleshooting tips.</ol>
+     <!--ol>→  Post-Purchase Drip Campaigns<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Send automated emails with setup guides, video tutorials, and common "first-day" troubleshooting tips.</ol>
      <ol>→  Live Pre-Purchase Assistance<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Use live chat to answer compatibility questions before the order is placed to prevent incorrect purchases.</ol>
-     <ol>→  "Check for Incompatibility" Alerts<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Add subtle cart notifications if a customer adds a frequently returned item or one with known compatibility requirements.</ol><br>
+     <ol>→  "Check for Incompatibility" Alerts<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Add subtle cart notifications if a customer adds a frequently returned item or one with known compatibility requirements.</ol--><br>
     <li>Enhanced Product Accuracy</li>
-     <ol>→  Detailed Technical Visuals<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Move beyond white-background photos to include 360-degree views, 3D visualizations, and videos that demonstrate the product's interface and functionality.</ol>
+     <!--ol>→  Detailed Technical Visuals<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Move beyond white-background photos to include 360-degree views, 3D visualizations, and videos that demonstrate the product's interface and functionality.</ol>
      <ol>→  Comparison-Based Upselling<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Use lifestyle imagery showing a person using the device to prevent returns due to an item being larger or smaller than expected.</ol>
-     <ol>→  Detailed Specifications<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Clearly list all materials, exact dimensions, and system requirements to set accurate expectations before checkout.</ol><br>
+     <ol>→  Detailed Specifications<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Clearly list all materials, exact dimensions, and system requirements to set accurate expectations before checkout.</ol--><br>
     <li>Strategic Shipping & Return Policies</li>
-     <ol>→  Rigorous Packaging Protocols<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Use protective inserts like custom foam or double-boxing for fragile high-end components.</ol>
+     <!--ol>→  Rigorous Packaging Protocols<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Use protective inserts like custom foam or double-boxing for fragile high-end components.</ol>
      <ol>→  Incentivized Exchanges<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Offer immediate replacements or a bonus (e.g., 10% extra store credit) if a customer chooses an exchange over a full refund.</ol>
-     <ol>→  Restocking Fees<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	For high-cost items, implement a reasonable restocking fee for "change of mind" returns to discourage casual or habitual returning.</ol><br>         
+     <ol>→  Restocking Fees<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	For high-cost items, implement a reasonable restocking fee for "change of mind" returns to discourage casual or habitual returning.</ol--><br>
+    <li><a href="recommend-return-refund-rate.md">Click here for more details...</a></li><br>
    </ul>   
   </td>
  </tr>
+</table>
 
- <tr>
-  <td valign="top" align="center"><b>!</b></td>
-  <td>
-   <b>Notes: Operations</b>
-   <ul>
+<br />
+<b>Notes: Operations</b>
+   <ul><br>
     <li>IT &amp; Marketing: Workshop to better capture channel correctly instead of "Unknown"</li>
     <li>RCA to recover Q2 FY2022 lost/missing refunds(CRM integration issue)</li>
     <li>Suggestion #3</li>
     </ul>     
-  </td>
- </tr> 
- 
-</table>
-
-<br />
 
 ---
 
