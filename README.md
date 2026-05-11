@@ -37,7 +37,7 @@ _	Underscore	5F (%5F)
 
 ## 1. Overall Sales Trends (2019-2022)
 
-### FY22 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
+### 2022 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
 <!-- *Visualization: Line chart · full period · annotate inflection points* -->
 
@@ -55,17 +55,17 @@ _	Underscore	5F (%5F)
    <div>
     <b>Revenue Growth and Peak Performance:</b>
     <ul>
-     <li>FY2019-FY2021 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
-     <li>FY2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-    <li>Q4 FY2020 saw revenue peaked at $3M ($1.25M in December 2020), making it the best-performing period.</li>    
+     <li>2019-2021 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
+     <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
+     <li>Q4 2020 saw revenue peaked at $3M ($1.25M in December 2020), making it the best-performing period.</li>    
     </ul>
    </div>
    <div>
     <b>Declining Trend in 2021</b>
     <ul>
-     <li>Q1-Q2 FY2021 saw the beginning of the market cooling down by $1M.</li>
+     <li>Q1-Q2 saw the beginning of the market cooling down by $1M.</li>
+     <li>Q3-Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
      <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
-     <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
     </ul>
    </div>
 
@@ -79,6 +79,10 @@ _	Underscore	5F (%5F)
    <div>
     <b>Key Takeaways & Recommendations</b>
     <ul>
+    <li>Overall revenue trend was in lock-step with the rest of the industry from 2019-2021:</li>
+     <table><tr><td>
+      <a href="https://static.ecommercedb.com/media/2024/05/growth-rates-of-the-global-ecommerce-market-and-the-total-retail-market-2018-2028-12929.png" target="_blank"><img src="images/bits_and_bytes_overall_market_trend.jpg" width="300px" alt="revenue chart" /></a><br>
+     </td></tr></table>
     <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
     <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
     <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
@@ -109,41 +113,37 @@ _	Underscore	5F (%5F)
 
 <table width"100%">
  <tr>
-  <td><br>
+  <td>
    <div>
-    <ul>
+    <ul><br>
      <li>
-      <b>Direct:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 49% YoY </font>
+      <b>Direct:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 49% YoY (2022)</font>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>
      <li>
-      <b>Social Media:</b> <img src="images/bits_and_bytes_icon_red_downtick.png">56% YoY 
+      <b>Social Media:</b> <img src="images/bits_and_bytes_icon_red_downtick.png">56% YoY (2022)
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>
      <li>
-      <b>Email:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 37% YoY 
+      <b>Email:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 37% YoY (2022)
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>
      <li>
-      <b>Affiliate:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 33% YoY 
+      <b>Affiliate:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 33% YoY (2022)
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      </li>    
      <li>
       <b>Unknown:</b> <img src="images/bits_and_bytes_icon_green_uptick.png"> 296% YoY (Need to capture correct channel for this unknown to get accurate assessment of channel performance!)
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     </li>  
+</li>  
     </ul>    
    </div>
   </td>
  </tr>
 </table>
-
-<br />
 
 ---
 
@@ -194,7 +194,7 @@ _	Underscore	5F (%5F)
 </td></tr>
 </table>
 
-- **Avg. member spend:** $245 vs $214 non-member
+- **Avg. member spend:** $245 vs $214 non-member (Historically, Loyalty members spend more than non-members)
 - **Redemption rate:** 64% (up from 41% prior year)
 - **Retention:** 89% among active loyalty users
 <br />
