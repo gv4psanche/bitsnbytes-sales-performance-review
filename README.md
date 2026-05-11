@@ -94,7 +94,7 @@ _	Underscore	5F (%5F)
 
 ---
 
-### Negative Performance Was Universal — All Four Channels Suffered Severe Sales Losses
+### Negative Performance Was Universal — All Four Channels Suffered Significant Sales Losses
 
 <!-- *Visualization: Channel breakdown · stacked bar or small multiples*  
 - **Direct:** 🡻 49% YoY</span>
@@ -161,12 +161,13 @@ _	Underscore	5F (%5F)
 ### Seasonality Explains the Mid-Year Dip — Adjusted Growth Remains On Track
 
 *Visualization: Seasonality-adjusted overlay · rule out alternative explanations*
+<br />
 
 ---
 
 ## 3. Loyalty Program Performance
 
-### Loyalty Members Spend 40% More Per Visit — the Program Is Driving Real Revenue
+### Loyalty Members Spend Only 14% More Per Visit — the Program Is Not Driving Real Revenue
 
 *Visualization: Member vs. non-member comparison · spend, retention, redemption rate* 
 
@@ -194,7 +195,7 @@ _	Underscore	5F (%5F)
 </td></tr>
 </table>
 
-- **Avg. member spend:** $245 vs $214 non-member (Historically, Loyalty members spend more than non-members)
+- **Avg. member spend:** $245 vs $214 non-member (Historically, Loyalty members spend 2.5x more than non-members)
 - **Redemption rate:** 64% (up from 41% prior year)
 - **Retention:** 89% among active loyalty users
 <br />
