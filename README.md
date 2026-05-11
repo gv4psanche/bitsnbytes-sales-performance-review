@@ -194,7 +194,7 @@ _	Underscore	5F (%5F)
 </td></tr>
 </table>
 
-- **Avg. member spend:** $131 vs $94 non-member
+- **Avg. member spend:** $245 vs $214 non-member
 - **Redemption rate:** 64% (up from 41% prior year)
 - **Retention:** 89% among active loyalty users
 <br />
