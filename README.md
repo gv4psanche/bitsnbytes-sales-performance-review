@@ -174,7 +174,7 @@ _	Underscore	5F (%5F)
 <table>
 <tr><td>
 <div align="center" border=1>
- <img src="images/bits_and_bytes_sales_by_loyaltyz.png" alt="loyalty chart" /><br>
+ <img src="images/bits_and_bytes_sales_by_loyalty.png" alt="loyalty chart" /><br>
 </div>
 </td></tr>
 </table>
@@ -190,7 +190,7 @@ _	Underscore	5F (%5F)
  <table>
  <tr><td>
 <div align="center" border=1>
- <img src="images/bits_and_bytes_aov_by_loyaltyz.png" alt="loyalty chart" /><br>
+ <img src="images/bits_and_bytes_aov_by_loyalty.png" alt="loyalty chart" /><br>
 </div>
 </td></tr>
 </table>
