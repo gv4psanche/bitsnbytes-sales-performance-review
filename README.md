@@ -195,9 +195,27 @@ _	Underscore	5F (%5F)
 </td></tr>
 </table>
 
-- **Avg. member spend:** $245 vs $214 non-member (Historically, Loyalty members spend 2.5x more than non-members)
-- **Redemption rate:** 64% (up from 41% prior year)
-- **Retention:** 89% among active loyalty users
+ <table>
+ <tr>
+  <td width="50%">
+<div align="center" border=1>
+ <img src="images/bits_and_bytes_member_enrollment_by_year.png" alt="loyalty chart" /><br>
+</div>
+</td>
+  <td width="50%">
+<div align="center" border=1>
+ <img src="images/bits_and_bytes_revenue_share_by_product_members.png" alt="loyalty chart" /><img src="images/bits_and_bytes_revenue_share_by_product_nonmembers.png" alt="loyalty chart" /><br>
+</div>
+</td>  
+ </tr>
+</table>
+
+- **Members closing the AOV gap:** Members started $67 below non-members in 2019 but surpassed them in 2022 ($245 vs $214), suggesting long-term spend growth.
+- **Members prefer lower-cost items:** AirPods & the 4K Monitor make up 78% of member revenue, while non-members skew toward higher-ticket MacBook purchases.
+- **Membership growth peaked in 2021:** 16,767 new members enrolled in 2021 — up 10× from 2019 — before declining in 2022.
+- **Email is a loyalty driver:** 24% of member orders come from email vs 12% for non-members — email marketing is twice as effective at activating members.
+- **Mobile adoption is higher:** 22% of member orders come via mobile app vs 14% for non-members, indicating deeper platform engagement among members.
+- **Higher refund rate warrants attention:** Members refund at 6.2% vs 4.1% for non-members. The 2020 spike (13%) is notable and may correlate with specific product or channel issues.
 <br />
 
 ---
