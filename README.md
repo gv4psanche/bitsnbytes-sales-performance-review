@@ -207,16 +207,16 @@ _	Underscore	5F (%5F)
  </tr>
  </table>
  
-- **Membership growth peaked in 2021:** 15,222 new members enrolled in 2021 — up 10× from 2019 — before declining in 2022.  <br>
+- **Membership growth peaked in 2021:** 15,222 new members enrolled in 2021 — up 5× from 2019 — before declining in 2022.  <br>
  
  <table>
  <tr>
-  <td valign="top">
+  <td valign="top" width="50%">
   <div border=1>
    <img src="images/bits_and_bytes_revenue_share_by_product_members.png" alt="loyalty chart" /><br>
   </div>
 </td>  
-  <td valign="top">
+  <td valign="top" width="50%">
   <div border=1>
    <img src="images/bits_and_bytes_revenue_share_by_product_nonmembers.png" alt="loyalty chart" /><br>
   </div>
