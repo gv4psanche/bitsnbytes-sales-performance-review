@@ -3,9 +3,9 @@
 
 # <div align="center">Sales Performance Review</div>
 
-<div align="center">A structured analysis of sales trends, growth rates, loyalty program ROI, and order economics</div>
+<div align="center">A structured analysis of sales trends, growth rates, loyalty program ROI, and refunds/returns</div>
 
-<div align="center"><b>Period:</b> 2019 – 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Last updated:</b> Apr 2023</div>
+<div align="center"><b>Period:</b> 2019 – 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Updated:</b> Apr 2023 &nbsp;|&nbsp; <b>Tools:</b> Excel/Tableau</div>
 
 ---
 
