@@ -16,7 +16,7 @@
 <div align="left">
  <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
 </div>
-
+<div align="center"><img src="images/loyalty_KPI_svg.svg" width="100" alt="bits&bytes logo" /></div>
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
 <!-- https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square (down/red) -->
 <!--
