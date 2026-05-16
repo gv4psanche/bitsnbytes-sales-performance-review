@@ -142,11 +142,9 @@ _	Underscore	5F (%5F)
 
 <img src="images/svg_regional_overview_metrics.svg" alt="bits&bytes logo" />
 
-### Growth Stalled in Back-Half Months — Annual Rate Fell From 18% to 6%
+### NA Drives 51.7% Of Global Revenue, But 91.5% of That Comes From The US Alone.
 
-*Visualization: Dual chart · MoM rate left · YoY rate right*
-
-> `[ MoM + YoY growth chart ]`
+<img src="images/bits_and_bytes_revenue_share_by_region.png" alt="" />
 <br />
 
 ---
