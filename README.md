@@ -167,10 +167,11 @@ _	Underscore	5F (%5F)
 
 ## 3. Loyalty Program Performance
 
+<img src="images/loyalty_KPI_svg.svg" alt="bits&bytes logo" />
+
 ### Loyalty Members Spend Only 14% More Per Visit — the Program Is Not Driving Real Revenue
 
 *Visualization: Member vs. non-member comparison · spend, retention, redemption rate* 
-
 <table>
 <tr><td>
 <div align="center" border=1>
