@@ -14,9 +14,9 @@
 <!-- **Strong momentum across all four metrics — three clear actions follow.** -->
 
 <div align="left">
- <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
+ <br>
 </div>
-<div align="center"><img src="images/loyalty_KPI_svg.svg" alt="bits&bytes logo" /></div>
+<div><img src="images/loyalty_KPI_svg.svg" alt="" /></div>
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
 <!-- https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square (down/red) -->
 <!--
