@@ -14,7 +14,7 @@
 <!-- **Strong momentum across all four metrics — three clear actions follow.** -->
 
 <div align="left">
- <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br>
+ <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br><br>
 </div>
 
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
@@ -49,36 +49,33 @@ _	Underscore	5F (%5F)
 </div>
 </td></tr></table>
 
-<br>
-
-<table>
- <tr>
-  <td valign="top">
-   <div>
+<div>
     <b>Revenue Growth and Peak Performance:</b>
     <ul>
      <li>2019-2021 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
      <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
      <li>Q4 2020 saw revenue peaked at $3M ($1.25M in December 2020), making it the best-performing period.</li>    
     </ul>
-   </div>
-   <div>
+</div>
+
+<div>
     <b>Declining Trend in 2021</b>
     <ul>
      <li>Q1-Q2 saw the beginning of the market cooling down by $1M.</li>
      <li>Q3-Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
      <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
     </ul>
-   </div>
+</div>
 
-   <div>
+<div>
     <b>Quarterly Insights & Seasonal Trends</b>
     <ul>
     <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
     <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
     </ul>
-   </div>
-   <div>
+</div>
+
+<div>
     <b>Key Takeaways & Recommendations</b>
     <ul>
     <li>Overall revenue trend was in lock-step with the rest of the industry from 2019-2021:</li>
@@ -88,11 +85,8 @@ _	Underscore	5F (%5F)
     <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
     <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
     <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
-    </ul>
-   </div>
-  </td>
- </tr>
-</table>
+    </ul><br><br>
+</div>
 
 ---
 
@@ -107,16 +101,11 @@ _	Underscore	5F (%5F)
 
 <table><tr><td>
 <div align="left">
- <img src="images/bits_and_bytes_sales_by_channel.png" alt="revenue by channel" /><br>
+ <img src="images/bits_and_bytes_sales_by_channel.png" alt="revenue by channel" />
 </div>
 </td></tr></table>
 
-<br>
-
-<table width"100%">
- <tr>
-  <td>
-   <div>
+<div>
     <ul><br>
      <li>
       <b>Direct:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 49% YoY (2022)</font>
@@ -140,12 +129,9 @@ _	Underscore	5F (%5F)
      </li>    
      <li>
       <b>Unknown:</b> <img src="images/bits_and_bytes_icon_green_uptick.png"> 296% YoY (Need to capture correct channel for this unknown to get accurate assessment of channel performance!)
-</li>  
-    </ul>    
-   </div>
-  </td>
- </tr>
-</table>
+     </li>  
+    </ul><br><br>   
+</div>
 
 ---
 
