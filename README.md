@@ -37,7 +37,7 @@ _	Underscore	5F (%5F)
 
 ## 1. Overall Sales Trends (2019-2022)
 
-<img src="images/svg_revenue_overview_merics.svg" alt="bits&bytes logo" />
+<img src="images/svg_revenue_overview_metrics.svg" alt="bits&bytes logo" />
 
 ### 2022 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
@@ -149,7 +149,9 @@ _	Underscore	5F (%5F)
 
 ---
 
-## 2. Monthly & Yearly Growth Rates
+## 2. Key Regional Insights
+
+<img src="images/svg_regional_overview_metrics.svg" alt="bits&bytes logo" />
 
 ### Growth Stalled in Back-Half Months — Annual Rate Fell From 18% to 6%
 
@@ -169,7 +171,7 @@ _	Underscore	5F (%5F)
 
 ## 3. Loyalty Program Performance
 
-<img src="images/svg_loyalty_overview_merics.svg" alt="bits&bytes logo" />
+<img src="images/svg_loyalty_overview_metrics.svg" alt="bits&bytes logo" />
 
 ### Loyalty Members Spend Only 14% More Per Visit — the Program Is Not Driving Real Revenue
 
@@ -244,6 +246,8 @@ _	Underscore	5F (%5F)
 ---
 
 ## 4. Refund Rates & Average Order Value
+
+<img src="images/svg_refund_overview_metrics.svg" alt="bits&bytes logo" />
 
 ### Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue (*)
 *Note: This period will be excluded from any Refund related analysis*
