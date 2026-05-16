@@ -16,6 +16,7 @@
 <!--div align="left">
  <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br><br>
 </div-->
+###  Mix performance across all four metrics - three clear actions follow.
 <div align="left">
 <img src="images/bits_and_bytes_kpi_sales.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_aov.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_refunds.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_loyalty.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_next.png" alt="main kpi" />
 </div>
