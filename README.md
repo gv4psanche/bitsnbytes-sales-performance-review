@@ -16,7 +16,9 @@
 <div align="left">
  <img src="images/bits_and_bytes_main_kpi.png" alt="main kpi" /><br><br>
 </div>
-
+<div align="left">
+<img src="images/bits_and_bytes_kpi_sales.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_aov.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_refunds.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_loyalty.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_next.png" alt="main kpi" />
+</div>
 <!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
 <!-- https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square (down/red) -->
 <!--
