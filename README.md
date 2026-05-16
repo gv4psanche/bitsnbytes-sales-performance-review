@@ -37,6 +37,8 @@ _	Underscore	5F (%5F)
 
 ## 1. Overall Sales Trends (2019-2022)
 
+<img src="images/svg_revenue_overview_merics.svg" alt="bits&bytes logo" />
+
 ### 2022 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
 <!-- *Visualization: Line chart · full period · annotate inflection points* -->
@@ -167,7 +169,7 @@ _	Underscore	5F (%5F)
 
 ## 3. Loyalty Program Performance
 
-<img src="images/loyalty_KPI_svg.svg" alt="bits&bytes logo" />
+<img src="images/svg_loyalty_overview_merics.svg" alt="bits&bytes logo" />
 
 ### Loyalty Members Spend Only 14% More Per Visit — the Program Is Not Driving Real Revenue
 
