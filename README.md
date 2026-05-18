@@ -146,7 +146,7 @@ _	Underscore	5F (%5F)
 
 <table><tr><td>
 <div align="center" border=1>
- <img src="images/bits_and_bytes_revenue_share_by_region.png" alt="revenue_region" /><br>
+ <img src="images/bits_and_bytes_revenue_share_by_region.png" alt="revenue_region" /> <img src="images/bits_and_bytes_region_revenue_by_year.png" alt="revenue_region" /><br>
 </div>
 </td></tr></table>
 
