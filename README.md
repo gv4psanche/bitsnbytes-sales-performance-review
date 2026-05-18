@@ -20,21 +20,6 @@
 <div align="left">
 <img src="images/bits_and_bytes_kpi_sales.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_aov.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_refunds.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_loyalty.png" alt="main kpi" /> <img src="images/bits_and_bytes_kpi_next.png" alt="main kpi" />
 </div>
-<!-- https://img.shields.io/badge/Sales-Up%20YoY-2da44e?style=flat-square (up/green) -->
-<!-- https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square (down/red) -->
-<!--
-Encoding Comparison
-Character 	Name	Hex Code (Percent Encoded)
-+	Plus sign	2B (%2B)
--	Hyphen-minus	2D (%2D)
-_	Underscore	5F (%5F)
-.	Period	2E (%2E)
--->
-<!--![Sales down YoY](https://img.shields.io/badge/Sales-Down%20YoY-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp; -->
-<!--![AOV](https://img.shields.io/badge/AOV--%2D%24230-c41e3a?style=flat-square)&nbsp;&nbsp;&nbsp; -->
-<!--![Refunds](https://img.shields.io/badge/Refunds-2--Year%20Low-0969da?style=flat-square)&nbsp;&nbsp;&nbsp; -->
-<!--![Loyalty ROI](https://img.shields.io/badge/Loyalty%20ROI-Confirmed-7c3aed?style=flat-square)&nbsp;&nbsp;&nbsp; -->
-<!--![Next Actions](https://img.shields.io/badge/Next%20Actions-3-d97706?style=flat-square) -->
 
 ---
 
@@ -52,33 +37,14 @@ _	Underscore	5F (%5F)
 </div>
 </td></tr></table>
 
-<div>
-    <b>Revenue Growth and Peak Performance:</b>
-    <ul>
-     <li>2019-2021 saw a YoY healthy and steady growth of 25% (up by $1M).</li>
-     <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-     <li>Q4 2020 saw revenue peaked at $3M ($1.25M in December 2020), making it the best-performing period.</li>    
-    </ul>
-</div>
-
-<div>
-    <b>Declining Trend in 2021</b>
-    <ul>
-     <li>Q1-Q2 saw the beginning of the market cooling down by $1M.</li>
-     <li>Q3-Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
-     <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
-    </ul>
-</div>
-
-<div>
-    <b>Quarterly Insights & Seasonal Trends</b>
-    <ul>
-    <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
-    <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
-    </ul>
-</div>
-
-<div>
+- **Revenue Growth and Peak Performance:** 2020 was an extraordinary outlier where revenue surged +163% to $10.2M — likely driven by pandemic-era electronics demand.
+- **Declining Trend in 2021:** Every subsequent year declined, with 2022 at just $5.0M, suggesting the business hasn't found a post-boom growth path.
+- **Quarterly Insights & Seasonality:** Every Q3 and Q4 end for each year showed revenue peaking — likely due holiday season shopping and marketing efforts but quickly dropped after January.
+- **Overall revenue trend was in lock-step with the rest of the industry:** 
+     <ul><table><tr><td align="center">
+      <a href="https://static.ecommercedb.com/media/2024/05/growth-rates-of-the-global-ecommerce-market-and-the-total-retail-market-2018-2028-12929.png" target="_blank"><img src="images/bits_and_bytes_overall_market_trend.jpg" width="300px" alt="revenue chart" /></a><br>
+     </td></tr></table></ul>
+<!--div>
     <b>Key Takeaways & Recommendations</b>
     <ul>
     <li>Overall revenue trend was in lock-step with the rest of the industry from 2019-2021:</li>
@@ -89,18 +55,17 @@ _	Underscore	5F (%5F)
     <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
     <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum. </li>
     </ul><br><br>
-</div>
+</div-->
 
----
+<br>
 
-### Negative Performance Was Universal — All Four Channels Suffered Significant Sales Losses
-
-<!-- *Visualization: Channel breakdown · stacked bar or small multiples*  
-- **Direct:** 🡻 49% YoY</span>
-- **Social Media:** 🡻 56% YoY
-- **Email:** 🡻 37% YoY
-- **Affiliate:** 🡻 33% YoY
--->
+### Negative Performance Was Universal — All Four Channels Suffered Significant Sales Losses YoY(2022)
+<!-- 🡻 -->
+- **Direct:** <img src="images/bits_and_bytes_icon_red_downtick.png"> 49% YoY — Direct channel dominates — dangerously at 82.6% of revenue.
+- **Email:** <img src="images/bits_and_bytes_icon_red_downtick.png"> 37% YoY — at $3.4M(12%) is the only meaningful secondary channel.
+- **Social Media:** <img src="images/bits_and_bytes_icon_red_downtick.png"> 56% YoY
+- **Affiliate:** <img src="images/bits_and_bytes_icon_red_downtick.png"> 33% YoY
+- **Unknown:** <img src="images/bits_and_bytes_icon_green_uptick.png"> 296% YoY — Need to capture correct channel for this unknown to get accurate assessment of channel performance!
 
 <table><tr><td>
 <div align="left">
@@ -108,33 +73,13 @@ _	Underscore	5F (%5F)
 </div>
 </td></tr></table>
 
-<div>
-    <ul><br>
-     <li>
-      <b>Direct:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 49% YoY (2022)</font>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     </li>
-     <li>
-      <b>Social Media:</b> <img src="images/bits_and_bytes_icon_red_downtick.png">56% YoY (2022)
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     </li>
-     <li>
-      <b>Email:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 37% YoY (2022)
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     </li>
-     <li>
-      <b>Affiliate:</b> <img src="images/bits_and_bytes_icon_red_downtick.png"> 33% YoY (2022)
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     </li>    
-     <li>
-      <b>Unknown:</b> <img src="images/bits_and_bytes_icon_green_uptick.png"> 296% YoY (Need to capture correct channel for this unknown to get accurate assessment of channel performance!)
-     </li>  
-    </ul><br><br>   
-</div>
+<br>
+
+### Product Winners and Losers
+<!-- 🡻 -->
+- **4K Monitor & AirPods carry the business:** These two products account for 62.6% of total revenue ($17.6M). Neither is a high-margin, high-AOV item, making volume consistency critical to sustaining overall revenue.
+- **MacBook Air is the most volatile SKU:** MacBook revenue surged to $2.94M in 2020 (+384% vs 2019), then collapsed to $852K in 2022. This single SKU swing accounted for over $2M of the 2020–2022 revenue decline.
+<br>
 
 ---
 
