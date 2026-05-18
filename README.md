@@ -125,7 +125,6 @@
 
 ### Loyalty Members Spend Only 14% More Per Visit — the Program Is Not Driving Real Revenue
 
-*Visualization: Member vs. non-member comparison · spend, retention, redemption rate* 
 <table>
 <tr><td>
 <div align="center" border=1>
@@ -185,13 +184,6 @@
 - **Higher refund rate warrants attention:** Members refund at 6.2% vs 4.1% for non-members. The 2020 spike (13%) is notable and may correlate with specific product or channel issues.
 <br />
 
----
-
-### The Verdict: Keep the Program — and Double Down on These Two Improvements
-
-*Direct recommendation · evidence-backed · answers "should we keep it?"*
-
-<br />
 
 ---
 
@@ -265,8 +257,8 @@
     <li>Enhance 3-Tiered Service Perks → Move beyond simple discounts. Top-tier members should receive "money-can't-buy" services like priority technical support, extended return windows, or "white glove" setup consultations.
      <!--ol>→  <i>Tier 1: The Enthusiast (Entry Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Free to join upon first purchase or account creation<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	1x points per $1 spent | Small Discount  | Standard Benefits</ol>
      <ol>→  <i>Tier 2: The Power User (Mid Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$1,500+ annual spend <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	1.5x points per $1 spent | Free "System Health Check" | Priority Support</ol>
-     <ol>→  <i>Tier 3: The Elite Architect (Top Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$5,000+ annual spend<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	2x points per $1 spent | "White Glove" | VIP Tech Support</ol--><br>
-    </li>
+     <ol>→  <i>Tier 3: The Elite Architect (Top Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$5,000+ annual spend<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	2x points per $1 spent | "White Glove" | VIP Tech Support</ol-->
+    </li><br>
     <li>Reward "Technical Advocacy" (UGC) → Offer high-value points for detailed video reviews, setup photos, or participating in community forums. This builds trust and social proof, which are critical for expensive electronics.</li><br>
     <li>Trade-in & Recycling Bonuses → Encourage repeat business by offering loyalty members a "trade-in" point bonus when they return old electronics</li><br>
     <li><a href="recommend-enhance-loyalty-program.md">Click here for more details...</a></li><br>
@@ -277,8 +269,12 @@
  <tr>
   <td valign="top" align="center"><b>2</b></td>
   <td>
-    <b>Goal: Increase AOV</b>
+    <b>Goal: Increase AOV ~ Increase Revenue</b>
    <ul><br>
+    <li>Region Enhancements</li>
+     <ol>•	Launch mobile-first campaigns in LATAM immediately:  LATAM's 25.7% mobile app order share is the highest globally, yet the region contributes just 6% of revenue. Mobile-optimized ads (Instagram, TikTok), app-exclusive promotions, and local payment methods (Pix in Brazil, OXXO in Mexico) could unlock significant volume from an undermonetized mobile base.</ol>
+     <ol>•	Aggressively expand EMEA — it's the most scalable region:  EMEA has 99 active markets, the widest geographic spread, and strong AOV ($258).</ol>
+     <ol>•	Develop JP and KR as premium APAC growth anchors:  Japan ($393 AOV) and South Korea ($336 AOV) are clear premium markets buying high-ticket items. Building dedicated product pages, loyalty tiers, and local-language support for these two markets could meaningfully grow APAC's 13% revenue share without broad market expansion costs.</ol><br>
     <li>High-Impact Bundling & Configuration</li>
      <!--ol>•	"Complete My Build" Bundles<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Automatically suggest essential items that a customer might forget.</ol>
      <ol>•	Tiered Performance Kits<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Instead of selling a single PC, offer "Starter," "Pro," and "Ultra" bundles packages.</ol>
@@ -326,7 +322,6 @@
    <ul><br>
     <li>IT &amp; Marketing: Workshop to better capture channel correctly instead of "Unknown"</li>
     <li>RCA to recover Q2 FY2022 lost/missing refunds(CRM integration issue)</li>
-    <li>Suggestion #3</li>
     </ul>     
 
 ---
