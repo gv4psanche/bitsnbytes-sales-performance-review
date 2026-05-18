@@ -79,6 +79,12 @@
 <!-- 🡻 -->
 - **4K Monitor & AirPods carry the business:** These two products account for 62.6% of total revenue ($17.6M). Neither is a high-margin, high-AOV item, making volume consistency critical to sustaining overall revenue.
 - **MacBook Air is the most volatile SKU:** MacBook revenue surged to $2.94M in 2020 (+384% vs 2019), then collapsed to $852K in 2022. This single SKU swing accounted for over $2M of the 2020–2022 revenue decline.
+
+<table><tr><td>
+<div align="left">
+ <img src="images/bits_and_bytes_prod_sales_by_year.png" alt="prod revenue by year" />
+</div>
+</td></tr></table>
 <br>
 
 ---
