@@ -145,12 +145,16 @@ _	Underscore	5F (%5F)
 ### NA Drives 51.7% Of Global Revenue, But 91.5% of That Comes From The US Alone.
 
 <table><tr>
-<td align="center">
- <img src="images/bits_and_bytes_revenue_share_by_region.png" alt="revenue_region" size="50%"/>
-</td>
-<td align="center">
- <img src="images/bits_and_bytes_region_revenue_by_year.png" alt="revenue_region"  size="50%"/>
-</td>
+  <td valign="top" width="45%">
+  <div border=1>
+   <img src="images/bits_and_bytes_revenue_share_by_region.png" alt="revenue_region"/><br>
+  </div>
+  </td>   
+  <td valign="top" width="55%">
+  <div border=1>
+   <img src="images/bits_and_bytes_region_revenue_by_year.png" alt="revenue_region"/>
+  </div>
+  </td>   
 </tr></table>
 
 ---
@@ -213,7 +217,7 @@ _	Underscore	5F (%5F)
   <div border=1>
    <img src="images/bits_and_bytes_revenue_share_by_product_members.png" alt="loyalty chart" /><br>
   </div>
-</td>  
+  </td>  
   <td valign="top" width="50%">
   <div border=1>
    <img src="images/bits_and_bytes_revenue_share_by_product_nonmembers.png" alt="loyalty chart" /><br>
