@@ -82,7 +82,7 @@
 
 <table><tr><td>
 <div align="left">
- <!--img src="images/bits_and_bytes_prod_sales_by_year.png" alt="prod revenue by year" /-->
+ <img src="images/bits_and_bytes_prod_sales_by_year.png" alt="prod revenue by year" />
 </div>
 </td></tr></table>
 <br>
