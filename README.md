@@ -159,9 +159,11 @@ _	Underscore	5F (%5F)
 
 ---
 
-### Seasonality Explains the Mid-Year Dip — Adjusted Growth Remains On Track
-
-*Visualization: Seasonality-adjusted overlay · rule out alternative explanations*
+- **Product mix is nearly identical across regions:** The 4K Monitor (~34%), AirPods (~25%), and MacBook Air (~22%) dominate revenue in every region.
+- **NA had the worst refund rate in 2020 at 10%:** NA led all regions in 2020 refund rate (10.1%) vs EMEA (7.8%), APAC (9.3%), and LATAM (8.9%).
+- **APAC has highest AOV, driven by JP & KR:** APAC's $279 AOV leads all regions, lifted by Japan ($393 AOV) and South Korea ($336 AOV).
+- **EMEA has the broadest footprint, most diversified:** EMEA spans 99 countries with revenue spread across GB (25%), DE (12%), FR (8%), ES, NL, IT and more. No single country dominates.
+- **LATAM had the sharpest decline, lowest AOV:** fell −56% in 2022 — the steepest regional drop. AOV collapsed from $293 (2020) to $169 (2022).
 <br />
 
 ---
