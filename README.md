@@ -246,7 +246,7 @@
 <table>
  <tr>
   <td><b>Priority</b></td>
-  <td><b>Action</b> <span align="right"> for Teams(<b>MK</b>-Marketing | <b>PR</b>-Product | <b>FI</b>-Finance | <b>CS</b>-Customer Service)</span></td>
+  <td><b>Action</b> <span align="right"> for Teams(<b>MK</b>-Marketing | <b>PR</b>-Product | <b>FI</b>-Finance | <b>CS</b>-Customer Service | <b>IT</b>-Support)</span></td>
  </tr>
  
  <tr>
@@ -254,13 +254,13 @@
   <td>
    <b>Goal: Keep Customers Engaged by Enhancing Loyalty Program</b>
    <ul><br>
-    <li>Enhance 3-Tiered Service Perks → Move beyond simple discounts. Top-tier members should receive "money-can't-buy" services like priority technical support, extended return windows, or "white glove" setup consultations.
+    <li><b>Enhance 3-Tiered Service Perks:</b> Move beyond simple discounts. Top-tier members should receive "money-can't-buy" services like priority technical support, extended return windows, or "white glove" setup consultations.
      <!--ol>→  <i>Tier 1: The Enthusiast (Entry Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Free to join upon first purchase or account creation<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	1x points per $1 spent | Small Discount  | Standard Benefits</ol>
      <ol>→  <i>Tier 2: The Power User (Mid Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$1,500+ annual spend <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	1.5x points per $1 spent | Free "System Health Check" | Priority Support</ol>
      <ol>→  <i>Tier 3: The Elite Architect (Top Level)</i><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	$5,000+ annual spend<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	2x points per $1 spent | "White Glove" | VIP Tech Support</ol-->
     </li><br>
-    <li>Reward "Technical Advocacy" (UGC) → Offer high-value points for detailed video reviews, setup photos, or participating in community forums. This builds trust and social proof, which are critical for expensive electronics.</li><br>
-    <li>Trade-in & Recycling Bonuses → Encourage repeat business by offering loyalty members a "trade-in" point bonus when they return old electronics</li><br>
+    <li><b>Reward "Technical Advocacy"(UGC):</b> Offer high-value points for detailed video reviews, setup photos, or participating in community forums. This builds trust and social proof, which are critical for expensive electronics.</li><br>
+    <li><b>Trade-in & Recycling Bonuses:</b> Encourage repeat business by offering loyalty members a "trade-in" point bonus when they return old electronics</li><br>
     <li><a href="recommend-enhance-loyalty-program.md">Click here for more details...</a></li><br>
    </ul>
   </td>
@@ -271,10 +271,16 @@
   <td>
     <b>Goal: Increase AOV ~ Increase Revenue</b>
    <ul><br>
-    <li>Region Enhancements</li>
-     <ol>•	Launch mobile-first campaigns in LATAM immediately:  LATAM's 25.7% mobile app order share is the highest globally, yet the region contributes just 6% of revenue. Mobile-optimized ads (Instagram, TikTok), app-exclusive promotions, and local payment methods (Pix in Brazil, OXXO in Mexico) could unlock significant volume from an undermonetized mobile base.</ol>
-     <ol>•	Aggressively expand EMEA — it's the most scalable region:  EMEA has 99 active markets, the widest geographic spread, and strong AOV ($258).</ol>
-     <ol>•	Develop JP and KR as premium APAC growth anchors:  Japan ($393 AOV) and South Korea ($336 AOV) are clear premium markets buying high-ticket items. Building dedicated product pages, loyalty tiers, and local-language support for these two markets could meaningfully grow APAC's 13% revenue share without broad market expansion costs.</ol><br>
+    <li><b>Diagnose and address the 2021–2022 revenue decline urgently</b></li>
+     <ol>•	<b>Determine how much is post-pandemic normalization vs lost market share vs product mix issues:</b> Set a 2023 baseline target with a clear growth plan rather than drifting further below peak.</ol>
+     <ol>•	<b>Reduce product concentration risk — diversify beyond 4K Monitor & AirPods:</b> 62% of revenue from two products is a structural risk. Expand the product catalog in adjacent categories (monitors, audio, accessories) or introduce bundling to increase basket size and reduce single-SKU dependence.</ol>
+     <ol>•	<b>Build a repeat purchase program — LTV is the highest-leverage metric:</b> With 80% of customers buying only once, even a 10% improvement in repeat rate would add ~$2.8M in incremental revenue. Launch post-purchase email sequences, loyalty rewards, and product upgrade paths (e.g., cable → webcam → monitor).</ol>
+     <ol>•	<b>Invest in paid and email acquisition to reduce direct-channel dependency:</b> Direct traffic at 82.6% leaves the business vulnerable to any organic drop-off. Email already converts well ($180 AOV, 12% of revenue) — scale it. Test paid social and affiliate programs on mid-range products to develop acquisition redundancy.</ol>
+     <ol>•	<b>Capitalize on Q1 volume and seasonal patterns:</b> January is the single strongest revenue month. Lean into this with post-holiday promotions, new-year upgrade campaigns, and inventory preparation. September and December are also strong — build campaigns around these rather than spreading budget evenly.</ol><br>
+    <li><b>Region Enhancements</b></li>
+     <ol>•	<b>Launch mobile-first campaigns in LATAM immediately:</b>  LATAM's 25.7% mobile app order share is the highest globally, yet the region contributes just 6% of revenue. Mobile-optimized ads (Instagram, TikTok), app-exclusive promotions, and local payment methods (Pix in Brazil, OXXO in Mexico) could unlock significant volume from an undermonetized mobile base.</ol>
+     <ol>•	<b>Aggressively expand EMEA — it's the most scalable region:</b>  EMEA has 99 active markets, the widest geographic spread, and strong AOV ($258).</ol>
+     <ol>•	<b>Develop JP and KR as premium APAC growth anchors:</b>  Japan ($393 AOV) and South Korea ($336 AOV) are clear premium markets buying high-ticket items. Building dedicated product pages, loyalty tiers, and local-language support for these two markets could meaningfully grow APAC's 13% revenue share without broad market expansion costs.</ol><br>
     <li>High-Impact Bundling & Configuration</li>
      <!--ol>•	"Complete My Build" Bundles<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Automatically suggest essential items that a customer might forget.</ol>
      <ol>•	Tiered Performance Kits<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→  Instead of selling a single PC, offer "Starter," "Pro," and "Ultra" bundles packages.</ol>
