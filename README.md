@@ -355,9 +355,9 @@
 </div>
 <br />
 
-**Note:** The raw data was extracted from an older payment platform (prior to Shopify adoption 2021) that resulted in a "*not so clean*" dataset. See [EDA process](/doc/BB_EDA.pdf) on how the dataset was cleaned and prepared for this analysis.
+**Note:** <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="20px" /> The raw data was extracted from an older payment platform (prior to Shopify adoption 2021) that resulted in a "*not so clean*" dataset. See [EDA process](/doc/BB_EDA.pdf) on how the dataset was cleaned and prepared for this analysis.
 
- ### The Ask
+ ### The Ask <img src="images/icon_request_small.png" alt="icon assumptions" width="30px" />
 In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **B&B’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that Angie Lopez (Head of Operations) and the various internal cross-functional teams will utilize to streamline processes and enhance **B&B’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
  
 #### Northstar Metrics
@@ -369,6 +369,7 @@ In coordination with the Head of Operations, an in-depth analysis was conducted 
 
 ### Assumptions  <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="30px" />
 * **Backdated Analysis** - This analysis reporting assumes that the present year is 2023 and the data for review is from the prior 4 years of 2019-2022.
+* **Rough Data** - The dataset is assumed to have been pulled together from older system app sources which explains the "not so clean" state.
 * **Missing Returns/Refund Data** - The hypothetical cause for the missing returns data for the period Q1-Q3 2023 was due to a major systems issue that resulted in the non-capture of returns transactions.
 
 [Back to Sales Performance Review](#sales-performance-review)
