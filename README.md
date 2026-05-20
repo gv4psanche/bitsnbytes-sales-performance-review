@@ -189,9 +189,9 @@
 
 ## 4. Refund Rates & Average Order Value
 
-<img src="images/svg_refund_overview_metrics.svg" alt="bits&bytes logo" />
+<img src="images/svg_refund_overview_metrics.svg" alt="refund returns overview" />
 
-### Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue (*)
+### Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue ( <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="20px" /> )
 *Note: This period will be excluded from any Refund related analysis*
 <table>
  <tr>
@@ -365,6 +365,11 @@ In coordination with the Head of Operations, an in-depth analysis was conducted 
 * **Product performance** - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.
 * **Loyalty program evaluation** - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.
 * **Regional results** - Evaluating regional demand and product performance within regions to identify areas for improvement.
+
+
+### Assumptions  <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="30px" />
+* **Backdated Analysis** - This analysis reporting assumes that the present year is 2023 and the data for review is from the prior 4 years of 2019-2022.
+* **Missing Returns/Refund Data** - The hypothetical cause for the missing returns data for the period Q1-Q3 2023 was due to a major systems issue that resulted in the non-capture of returns transactions.
 
 [Back to Sales Performance Review](#sales-performance-review)
 
