@@ -343,10 +343,10 @@
 
 ## About The Project 
 
-### Company
+### Company <img src="images/icon_company_small.png" alt="icon company" width="30px" />
 **Bits&Bytes Commerce Inc.(B&B)** is a privately held eCommerce company based in Houston Texas that sells top-brand consumer electronics and accessories like Apple, Samsung, and ThinkPad to a global clientele. The company has successfuly pivoted, grown and expanded since it's launch in 2018 from being a B2B reseller to a Direct-to-Consumer retailer. At the beginning of 2020, it has encountered increasing competition within the industry as well as unique challenges and opportunities brought on by the COVID-19 pandemic.
 
-### Operational Data
+### Operational Data <img src="images/icon_data_small.png" alt="icon data" width="30px" />
 **B&B’s** current book of business encompasses nearly **88,000 customers** and more than **108,000 transactions**, yielding a total sales revenue exceeding **$28M USD**. The accompanying eCommerce dataset provides comprehensive data across multiple dimensions, including product performance, regional sales distribution, and loyalty program engagement.  
 
 <div align="center">
@@ -357,7 +357,7 @@
 
 **Note:** <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="20px" /> The raw data was extracted from an older payment platform (prior to Shopify adoption 2021) that resulted in a "*not so clean*" dataset. See [EDA process](/doc/BB_EDA.pdf) on how the dataset was cleaned and prepared for this analysis.
 
- ### The Ask <img src="images/icon_request_small.png" alt="icon assumptions" width="30px" />
+ ### The Ask <img src="images/icon_request_small.png" alt="icon requirements" width="30px" />
 In coordination with the Head of Operations, an in-depth analysis was conducted to evaluate **B&B’s** performance over the period of 2019–2022. This comprehensive review provides valuable insights that Angie Lopez (Head of Operations) and the various internal cross-functional teams will utilize to streamline processes and enhance **B&B’s** commercial performance for FY23 and beyond. The key insights and recommendations focus on the following areas:
  
 #### Northstar Metrics
