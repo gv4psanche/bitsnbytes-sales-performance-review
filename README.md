@@ -202,7 +202,7 @@
 </table>
 
 - Note: Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue ( <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="20px" /> )
-
+<br />
 <table>
  <tr>
   <td align="center">
@@ -210,8 +210,8 @@
   </td>
  </tr>
 </table>
-- **Q1 purchases are most returned** → January–March consistently show the highest refund rates (6.2–6.6%), possibly driven by holiday gift returns or post-deal buyer's remorse
 
+- **Q1 purchases are most returned** → January–March consistently show the highest refund rates (6.2–6.6%), possibly driven by holiday gift returns or post-deal buyer's remorse
 <br />
 
  <table>
@@ -230,7 +230,7 @@
 </table>
 
 - **Website orders** drives most refunds as well as **Social media-acquired customers**
-- 
+
 <br />
 
 ### Refund Rates Peaked to a Two-Year High as Average Order Value Also Climbed to $300
