@@ -192,7 +192,7 @@
 <img src="images/svg_refund_overview_metrics.svg" alt="refund returns overview" />
 
 ### 2020 was a crisis year - The refund rate nearly doubled to 9.2% in 2020, costing $1.35M — 60% of total refund losses. Likely driven by pandemic-era purchasing behavior and supply/quality issues
-*Note: Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue ( <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="20px" /> )*
+
 <table>
  <tr>
   <td align="center">
@@ -201,17 +201,39 @@
  </tr>
 </table>
 
+- Note: Refunds Not Captured from Q4-2021 through Q4-2022 due to PSP & CRM Integration issue ( <img src="images/icon_assumptions_small.png" alt="icon assumptions" width="20px" /> )
+
+<table>
+ <tr>
+  <td align="center">
+ <img src="images/bits_and_bytes_refund_rate_by_purchase_month.png" alt="revenue chart" />
+  </td>
+ </tr>
+</table>
 - **Q1 purchases are most returned** → January–March consistently show the highest refund rates (6.2–6.6%), possibly driven by holiday gift returns or post-deal buyer's remorse
-- It's been reported online that the **MacBook Air shipped during 2020-2022 suffered many issues related to it's M1 Logic Board**
-- **Bottom-performer** Bose products disappoints  
-- **Website orders** drives most refunds as well as **Social media-acquired customers**
 
 <br />
 
+ <table>
+ <tr>
+  <td valign="top" width="50%">
+  <div border=1>
+   <img src="images/bits_and_bytes_refund_rate_by_platform.png" alt="loyalty chart"  width="90%"/><br>
+  </div>
+  </td>  
+  <td valign="top" width="50%">
+  <div border=1>
+   <img src="images/bits_and_bytes_refund_rate_by_channel.png" alt="loyalty chart"  width="85%"/><br>
+  </div>
+</td>    
+ </tr>
+</table>
+
+- **Website orders** drives most refunds as well as **Social media-acquired customers**
+- 
 <br />
 
 ### Refund Rates Peaked to a Two-Year High as Average Order Value Also Climbed to $300
-
 *Note: Refund rate vs AOV show unusual lock-step relationship for high ticket items*
 <table>
  <tr>
@@ -221,11 +243,13 @@
  </tr>
 </table>
 
-<br />
+- **Higher AOV Is Driven by Premium Laptop Purchases — Accounts for elevated returns as well**
+- It's been reported online that the **MacBook Air shipped during 2020-2022 suffered many issues related to it's M1 Logic Board**
+- **Bottom-performer** Bose products disappoints
 
 <br />
 
-### Higher AOV Is Driven by Premium Laptop Purchases — Accounts for elevated returns as well
+<br />
 
 <!--table>
  <tr>
@@ -234,26 +258,6 @@
   </td>
  </tr>
 </table-->
-
- <table>
- <tr>
-  <td valign="top" width="50%">
-  <div border=1>
-   <img src="images/bits_and_bytes_refund_rate_by_platform.png" alt="loyalty chart" /><br>
-  </div>
-  </td>  
-  <td valign="top" width="50%">
-  <div border=1>
-   <img src="images/bits_and_bytes_refund_rate_by_channel.png" alt="loyalty chart" /><br>
-  </div>
-</td>    
- </tr>
-</table>
-
-- **Bundle attach rate** grew from 22% → 41%
-- **Price increase** contributed only $4 of $33 AOV gain
-
-<br />
 
 ---
 
