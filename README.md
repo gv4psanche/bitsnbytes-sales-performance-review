@@ -18,7 +18,7 @@
 </div-->
 ###  Mix performance across all four metrics - three clear actions follow.
 <div align="left">
-<a href="#2022-sales-momentum-decelerated-each-quarter--full-year-revenue-hit-a-two-year-low"><img src="images/bits_and_bytes_kpi_sales.png" alt="main kpi" /></a> <a href="#1-overall-sales-trends-2019-2022"><img src="images/bits_and_bytes_kpi_aov.png" alt="main kpi" /></a> <a href="#4-refund-rates--average-order-value"><img src="images/bits_and_bytes_kpi_refunds.png" alt="main kpi" /></a> <a href="#3-loyalty-program-performance"><img src="images/bits_and_bytes_kpi_loyalty.png" alt="main kpi" /></a> <a href="#5-next-steps"><img src="images/bits_and_bytes_kpi_next.png" alt="main kpi" /></a>
+<a href="#2022-sales-momentum-decelerated-each-quarter--full-year-revenue-hit-a-two-year-low"><img src="images/bits_and_bytes_kpi_sales.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-overall-sales-trends-2019-2022"><img src="images/bits_and_bytes_kpi_aov.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-refund-rates--average-order-value"><img src="images/bits_and_bytes_kpi_refunds.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-loyalty-program-performance"><img src="images/bits_and_bytes_kpi_loyalty.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#5-next-steps"><img src="images/bits_and_bytes_kpi_next.png" alt="main kpi" /></a>
 </div>
   
 ---
