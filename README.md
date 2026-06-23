@@ -263,7 +263,7 @@
 
 ## 5. Next Steps
 
-### Three Priorities for Next Quarter — With Owners and Deadlines
+### Three Priorities for Next Quarter
 
 <table>
  <tr>
