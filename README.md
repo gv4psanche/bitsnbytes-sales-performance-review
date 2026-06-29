@@ -5,7 +5,7 @@
 
 <div align="center">A structured analysis of sales trends, growth rates, loyalty program ROI, and refunds/returns</div>
 
-<div align="center"><b>Period:</b> 2019 – 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Updated:</b> Apr 2023 &nbsp;|&nbsp; <b>Tools:</b> Excel/Tableau &nbsp;|&nbsp; <a href="#about-the-project">Project Overview</a></div>
+<div align="center"><b>Period:</b> 2019 – 2022 &nbsp;|&nbsp; <b>Team:</b> Revenue Analytics &nbsp;|&nbsp; <b>Updated:</b> Apr 2023 &nbsp;|&nbsp; <b>Tools:</b> Excel/<a href="https://public.tableau.com/app/profile/paolo.sanchez/viz/BitsAndBytesPerformanceDashboard/ExecDashboard" tartget="_blank">Tableau</a> &nbsp;|&nbsp; <a href="#about-the-project">Project Overview</a></div>
 
 ---
 
