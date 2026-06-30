@@ -1,7 +1,13 @@
-# Sales Performance Review: Bits&Bytes Commerce Inc.
+<div align="center">
+ <img src="images/bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /><br>
+</div>
+<div align="center">
+
+# Sales Performance Review
+</div>
 
 **📋 Executive Context**  
-**Author:** [Your Name] | **Date:** April 2023 | **Version:** 1.2.0 | **Classification:** Internal — Confidential  
+**Author:** Data Analytics Team | **Date:** April 2023 | **Version:** 1.2.0 | **Classification:** Internal — Confidential  
 **Stakeholder:** Angie Lopez, Head of Operations | **Tools:** Excel, Tableau | **Data Period:** 2019–2022
 
 ---
@@ -412,4 +418,12 @@ For questions about this analysis, data methodology, or specific recommendations
 
 ---
 
+<div align="center">
+ <img src="images/bits_and_bytes_logo.svg" width="100" alt="bits&bytes logo" /><br>
+</div>
+
+<div align="center">
+   
 **© 2023 Bits&Bytes Commerce Inc. All rights reserved. Confidential — Internal Use Only.**
+
+</div>
