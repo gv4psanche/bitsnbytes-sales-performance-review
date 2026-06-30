@@ -8,16 +8,18 @@
 
 **📋 Executive Context**  
 **Author:** Data Analytics Team | **Date:** April 2023 | **Version:** 1.2.0 | **Classification:** Internal — Confidential  
-**Stakeholder:** Angie Lopez, Head of Operations | **Tools:** Excel, Tableau | **Data Period:** 2019–2022
+**Stakeholder:** Angie Lopez, Head of Operations | **Tools:** Excel, <a href="https://public.tableau.com/app/profile/paolo.sanchez/viz/BitsAndBytesPerformanceDashboard/ExecDashboard" tartget="_blank">Tableau Public</a> | **Data Period:** 2019–2022
 
 ---
 
 ## Executive Summary
+<div align="left">
+<a href="#2022-sales-momentum-decelerated-each-quarter--full-year-revenue-hit-a-two-year-low"><img src="images/bits_and_bytes_kpi_sales.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-overall-sales-trends-2019-2022"><img src="images/bits_and_bytes_kpi_aov.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-refund-rates--average-order-value"><img src="images/bits_and_bytes_kpi_refunds.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-loyalty-program-performance"><img src="images/bits_and_bytes_kpi_loyalty.png" alt="main kpi" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#5-next-steps"><img src="images/bits_and_bytes_kpi_next.png" alt="main kpi" /></a>
+</div>
 
 **Problem Statement:** Bits&Bytes faced a critical revenue inflection in 2022 following pandemic-era peak performance in 2020. This analysis identifies root causes, quantifies risks, and prescribes three high-impact priorities.
 
 ### Headline Metrics
-
 | Metric | Finding | Implication |
 |--------|---------|-------------|
 | **Revenue Decline** | 2022 revenue fell to **$5.0M** (−51% from 2020 peak of $10.2M) | Post-pandemic normalization + market share loss |
@@ -391,17 +393,17 @@ Product quality issues, not customer behavior, are the root cause. Fixing this r
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | March 15, 2023 | [Your Name] | Initial analysis; 2019–2022 full dataset |
-| 1.1 | March 22, 2023 | [Your Name] | Added regional AOV breakdown; flagged Q2–Q4 2022 data gap |
-| 1.2 | April 5, 2023 | [Your Name] | Finalized recommendations; added budget & ROI estimates |
+| 1.0 | March 15, 2023 | Paolo Sanchez | Initial analysis; 2019–2022 full dataset |
+| 1.1 | March 22, 2023 | Paolo Sanchez | Added regional AOV breakdown; flagged Q2–Q4 2022 data gap |
+| 1.2 | April 5, 2023 | Paolo Sanchez | Finalized recommendations; added budget & ROI estimates |
 
 ---
 
 ### Contact & Questions
 
-**Analysis Owner:** [Your Name]  
-**Email:** [your.email@company.com]  
-**Slack:** @[your-handle]  
+**Analysis Owner:** Paolo Sanchez  
+**Email:** paolo.sanchez@bitsandbytes.com]  
+**Slack:** @gv4psanche  
 **Last Updated:** April 5, 2023
 
 For questions about this analysis, data methodology, or specific recommendations, please reach out directly. This document is classified as **Internal — Confidential** and should not be shared outside Bits&Bytes leadership.
