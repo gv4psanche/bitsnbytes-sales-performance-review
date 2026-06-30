@@ -46,6 +46,12 @@
 
 ### 2022 Sales Momentum Decelerated Each Quarter — Full-Year Revenue Hit a Two-Year Low
 
+<table><tr><td>
+<div align="left" border=1>
+ <img src="images/bits_and_bytes_chart_sales_trend.png" alt="revenue chart" width="75%"/><br>
+</div>
+</td></tr></table>
+
 **The Insight:**  
 Revenue spiked **+163%** to $10.2M in 2020 (pandemic-driven electronics demand) but declined every year since, reaching **$5.0M in 2022**. This represents a **−51% drop** from peak and signals a structural business challenge, not temporary fluctuation.
 
@@ -63,6 +69,12 @@ The company is not simply normalizing post-COVID; the magnitude of decline sugge
 ---
 
 ### Negative Performance Was Universal — All Four Channels Suffered Significant YoY Sales Losses (2022)
+
+<table><tr><td>
+<div align="left">
+ <img src="images/bits_and_bytes_sales_by_channel.png" alt="revenue by channel" width="75%"/>
+</div>
+</td></tr></table>
 
 **The Insight:**  
 Every acquisition channel declined in 2022, with Direct leading the decline in absolute dollars. This is not a localized problem—it's systemic.
@@ -87,6 +99,12 @@ Direct channel concentration creates a "single point of failure." If organic tra
 ---
 
 ### Product Performers and Disappointments
+
+<table><tr><td>
+<div align="left">
+ <img src="images/bits_and_bytes_prod_sales_by_year.png" width="75%"/>
+</div>
+</td></tr></table>
 
 **The Insight:**  
 Two products carry the business; two products create volatility.
@@ -118,6 +136,19 @@ MacBook Air alone accounts for a **−$2.1M revenue swing** from 2020–2022. Wh
 ## Section 2: Regional Insights
 
 ### NA Drives 51.7% of Global Revenue — But 91.5% Comes from US Alone
+
+<table><tr>
+  <td valign="top" width="45%">
+  <div border=1>
+   <img src="images/bits_and_bytes_revenue_share_by_region.png" width="75%"/><br>
+  </div>
+  </td>   
+  <td valign="top" width="55%">
+  <div border=1>
+   <img src="images/bits_and_bytes_region_revenue_by_year.png" width="75%"/>
+  </div>
+  </td>   
+</tr></table>
 
 **The Insight:**  
 While North America is the largest revenue region, it's actually **just the US**. Canada and Mexico are underdeveloped, and geographic concentration creates risk.
@@ -152,6 +183,14 @@ Geographic concentration + product concentration = compounding risk. However, AP
 
 ### Loyalty Members Spend Only 14% More Per Visit — The Program Is Underperforming
 
+<table>
+<tr><td>
+<div align="center" border=1>
+ <img src="images/bits_and_bytes_sales_by_loyalty.png" widtht="75%t" /><br>
+</div>
+</td></tr>
+</table>
+
 **The Insight:**  
 While loyalty members show higher AOV ($245 in 2022 vs $214 for non-members), the **14% premium is modest** for the cost of program maintenance and incentives. The program is driving engagement but not delivering ROI.
 
@@ -182,6 +221,14 @@ Current program is **engagement-focused but margin-negative**. The 2.1pp higher 
 
 ### 2020 Was a Crisis Year — Refund Rate Nearly Doubled to 9.2%, Costing $1.35M
 
+<table>
+ <tr>
+  <td align="left">
+ <img src="images/bits_and_bytes_chart_refund_trend.png" width="75%" />
+  </td>
+ </tr>
+</table>
+
 **The Insight:**  
 **2020 refund losses accounted for 60% of all refunds across the four-year period**—a clear crisis driven by pandemic-era supply chain issues and product quality problems (notably M1 MacBook logic board issues).
 
@@ -207,7 +254,7 @@ Product quality issues, not customer behavior, are the root cause. Fixing this r
 
 ## Section 5: Next Steps & Priorities
 
-### Priority 1: Enhance Loyalty Program
+### ⚡ Priority 1: Enhance Loyalty Program
 
 **Owner:** Marketing & Product Teams  
 **Timeline:** Q2–Q3 2023  
@@ -233,7 +280,7 @@ Product quality issues, not customer behavior, are the root cause. Fixing this r
 
 ---
 
-### Priority 2: Diversify Revenue & Increase AOV
+### ⚡ Priority 2: Diversify Revenue & Increase AOV
 
 **Owner:** Marketing, Product, Merchandising  
 **Timeline:** Q2–Q4 2023  
@@ -258,7 +305,7 @@ Product quality issues, not customer behavior, are the root cause. Fixing this r
 
 ---
 
-### Priority 3: Reduce Refund Rates & Fix Product Quality Issues
+### ⚡ Priority 3: Reduce Refund Rates & Fix Product Quality Issues
 
 **Owner:** Operations, Product, Quality Assurance  
 **Timeline:** Q1–Q2 2023 (ongoing)  
@@ -402,7 +449,7 @@ Product quality issues, not customer behavior, are the root cause. Fixing this r
 ### Contact & Questions
 
 **Analysis Owner:** Paolo Sanchez  
-**Email:** paolo.sanchez@bitsandbytes.com]  
+**Email:** paolo.sanchez@bitsandbytes.com  
 **Slack:** @gv4psanche  
 **Last Updated:** April 5, 2023
 
