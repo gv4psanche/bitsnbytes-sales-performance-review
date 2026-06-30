@@ -459,6 +459,7 @@ For questions about this analysis, data methodology, or specific recommendations
 
 ### Related Documents
 
+- [Dashboard Visualization Source: Tableau Public](https://public.tableau.com/app/profile/paolo.sanchez/viz/BitsAndBytesPerformanceDashboard/ExecDashboard)
 - [Recommendation: Enhance Loyalty Program](./recommend-enhance-loyalty-program.md)
 - [Recommendation: Product Bundle Strategy](./recommend-product-bundles.md)
 - [Recommendation: Refund Rate Reduction Plan](./recommend-refund-reduction.md)
