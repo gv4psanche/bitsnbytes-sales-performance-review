@@ -8,7 +8,7 @@
 
 **📋 Executive Context**  
 **Author:** Data Analytics Team | **Date:** April 2023 | **Version:** 1.2.0 | **Classification:** Internal — Confidential  
-**Stakeholder:** Angie Lopez, Head of Operations | **Tools:** Excel, <a href="https://public.tableau.com/app/profile/paolo.sanchez/viz/BitsAndBytesPerformanceDashboard/ExecDashboard" tartget="_blank">Tableau Public</a> | **Data Period:** 2019–2022
+**Stakeholder:** <a href="images/bits_and_bytes_Angie_Martinez_Email.png">Angie Lopez</a>, Head of Operations | **Tools:** Excel, <a href="https://public.tableau.com/app/profile/paolo.sanchez/viz/BitsAndBytesPerformanceDashboard/ExecDashboard" tartget="_blank">Tableau Public</a> | **Data Period:** 2019–2022
 
 ---
 
